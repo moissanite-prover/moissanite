@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+
+.shape-container svg {
+    box-sizing: content-box;
+}
